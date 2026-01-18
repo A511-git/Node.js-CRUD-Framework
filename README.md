@@ -478,6 +478,3 @@ For any new feature / entity:
 The base classes handle repetitive CRUD patterns — you focus on what makes your entity unique.
 
 ---
-
-## License
-MIT (or your preferred license)
