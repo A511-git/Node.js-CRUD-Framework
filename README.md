@@ -18,7 +18,7 @@ API Layer (Routes) → Service Layer → Repository Layer → Database
 
 ## Architecture Diagram
 
-[![Architecture Diagram](./architecture.png)](https://whimsical.com/4R7ZzAJykBXJ2n5DLWH1NJ)
+[![Architecture Diagram](./architecture.png)](https://whimsical.com/embed/4R7ZzAJykBXJ2n5DLWH1NJ@9kGbMz9Kzt)
 
 > Click the image to open the interactive version
 
