@@ -16,6 +16,15 @@ API Layer (Routes) → Service Layer → Repository Layer → Database
 
 ---
 
+## Architecture Diagram
+
+[![Architecture Diagram](./architecture.png)](https://whimsical.com/4R7ZzAJykBXJ2n5DLWH1NJ)
+
+> Click the image to open the interactive version
+
+
+---
+
 ## ✨ Features
 
 - **Zero CRUD boilerplate** (create/update/delete/get/find/paginate ready)
