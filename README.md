@@ -16,14 +16,15 @@ API Layer (Routes) → Service Layer → Repository Layer → Database
 
 ---
 
-## Architecture Diagram
+## 🚨 MUST READ — Project Specifications & Whiteboard Flow Diagram
 
-[![Architecture Diagram](./diagrams/architecture.svg)](https://whimsical.com/embed/4R7ZzAJykBXJ2n5DLWH1NJ@9kGbMz9Kzt)
+> **This section explains the full backend architecture, request lifecycle, layer responsibilities, and error flow used in this project.**  
+> **Recommended before reviewing the codebase.**
 
-> Click the image to open the interactive version
-
+[![Specifications & Diagrams](https://whimsical.com/architecture-overview-and-specification-VqabDux9BSabmsDbuEs2xC)
 
 ---
+
 
 ## ✨ Features
 
